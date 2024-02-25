@@ -607,7 +607,7 @@ export const cryptoData = {
     hasPreviousPage: false,
     hasNextPage: true,
   },
-}
+};
 
 export const cryptoAssets = [
   {
@@ -622,4 +622,4 @@ export const cryptoAssets = [
     price: 2400,
     date: new Date(),
   },
-]
+];
